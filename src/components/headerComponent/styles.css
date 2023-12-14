@@ -1,0 +1,33 @@
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px;
+    color: white;
+  }
+  
+  .navbar-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-left img {
+    width: 30px; /* Adjust the width as needed */
+    margin-right: 10px;
+  }
+  
+  .navbar-right {
+    display: flex;
+  }
+  
+  .navbar-right a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+  }
+  
+  .navbar-right a:hover {
+    text-decoration: underline;
+  }

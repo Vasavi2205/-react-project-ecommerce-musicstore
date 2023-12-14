@@ -1,0 +1,175 @@
+{
+  "cardsData": [
+    {
+      "id": 1,
+      "title": "Juârez Acoustic Guitar",
+      "image": "https://m.media-amazon.com/images/I/51M9T0C4ssL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": " 38 Inch Cutaway, 038C with Bag",
+      "price": 2000
+    },
+    {
+      "id": 2,
+      "title": "Bhajan Kirtan Pooja",
+      "description": "GT manufacturers.",
+      "image": "https://m.media-amazon.com/images/I/51sGBja355S.jpg",
+      "price": 2000
+    },
+    {
+      "id": 3,
+      "title": "Part1",
+      "image": "https://m.media-amazon.com/images/I/812eUmpsnsL._SL1500_.jpg",
+      "description": "Melodica Musical Instrument .",
+      "price": 2000
+    },
+    {
+      "id": 4,
+      "title": "three",
+      "image": "https://m.media-amazon.com/images/I/61qDO3+grVL._SL1500_.jpg",
+      "description": "Melodica Musical Instrument to listen.",
+      "price": 2000
+    },
+    {
+      "id": 5,
+      "title": "Melodica Musical Instrument",
+      "image": "https://m.media-amazon.com/images/I/51KypP-anwL._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Melodica Musical Instrument to listen",
+      "price": 2000
+    },
+    {
+      "id": 6,
+      "title": "Melodica Musical Instrument",
+      "image": "https://m.media-amazon.com/images/I/71GmcKtZm4L._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Melodica Musical Instrument to listen",
+      "price": 2000
+    },
+    {
+      "id": 7,
+      "title": "Melodica Musical Instrument Card 2",
+      "image": "https://m.media-amazon.com/images/I/71nKVBFFh4L._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Melodica Musical Instrument to listen.",
+      "price": 2000
+    },
+    {
+      "id": 8,
+      "title": "Melodica Musical Instrument",
+      "image": "https://m.media-amazon.com/images/I/41iwYTbwE6L._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Melodica Musical Instrument to listen.",
+      "price": 2000
+    },
+    {
+      "id": 9,
+      "title": "Melodica Musical Instrument",
+      "image": "https://m.media-amazon.com/images/I/41iwYTbwE6L._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Melodica Musical Instrument.",
+      "price": 2000
+    },
+    {
+      "id": 10,
+      "title": "PAL MUSIC HOUSE",
+      "image": "https://m.media-amazon.com/images/I/61Z4lixtuvL._AC_UL480_QL65_.jpg",
+      "description": "Melodica Musical Instrument.",
+      "price": 2000
+    },
+    {
+      "id": 11,
+      "title": "Melodica Musical Instrument",
+      "image": "https://m.media-amazon.com/images/I/61f4hDNJjLL._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Folding Harmonium with 42-Keys",
+      "price": 2000
+    }
+  ],
+  "items": [
+    {
+      "name": "Vasavi",
+      "age": "23",
+      "designation": "Software",
+      "salary": "400000",
+      "mobileNumber": "2343643754",
+      "id": 1
+    },
+    {
+      "name": "Asha",
+      "age": "34",
+      "designation": "Music composer",
+      "salary": "14566",
+      "mobileNumber": "2343643754",
+      "id": 3
+    },
+    {
+      "name": "saivasavi",
+      "age": "121",
+      "designation": "sdsssssssssss",
+      "salary": "12222222334",
+      "mobileNumber": "2343643754",
+      "id": 4
+    },
+    {
+      "name": "cbdbcdrewte",
+      "age": "121",
+      "designation": "sdsssssssssss",
+      "salary": "12222222334",
+      "mobileNumber": "2343643754",
+      "id": 7
+    },
+    {
+      "name": "sai",
+      "age": "12",
+      "designation": "Inter",
+      "salary": "1200",
+      "mobileNumber": "2343643754",
+      "id": 9
+    },
+    {
+      "name": "Vasavi",
+      "age": "23",
+      "designation": "doctor",
+      "salary": "20000",
+      "mobileNumber": "9848406848",
+      "id": 10
+    },
+    {
+      "name": "Vasavib",
+      "age": "23",
+      "designation": "Software",
+      "salary": "12000",
+      "mobileNumber": "2343643754",
+      "id": 11
+    }
+  ],
+  "cart": [
+    {
+      "id": 3,
+      "title": "Part1",
+      "content": "Melodica Musical Instrument .",
+      "image": "https://m.media-amazon.com/images/I/812eUmpsnsL._SL1500_.jpg",
+      "quantity": 2,
+      "price": 2000
+    }
+  ],
+  "users": [
+    {
+      "email": "vasavi@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "email": "vasavi.basani@gmail.com",
+      "password": "12345",
+      "role": "Admin",
+      "id": 2
+    },
+    {
+      "email": "vasavi123@gmail.com",
+      "password": "1234",
+      "role": "Admin",
+      "id": 3
+    },
+    {
+      "email": "vasavi12@gmail.com",
+      "password": "1234",
+      "role": "User",
+      "id": 4
+    }
+  ]
+}

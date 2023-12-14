@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "Vasavi",
+      "image": "https://m.media-amazon.com/images/I/51M9T0C4ssL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Delicious chocolate with almonds.",
+      "price" : 2000
+    },
+    {
+      "id": 2,
+      "title": "Vasavi",
+      "image": "card2.jpg",
+      "description": "Smooth and creamy chocolate bar.",
+      "price" : 2000
+
+    }
+  
+  ]
